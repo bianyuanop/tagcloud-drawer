@@ -1,3 +1,12 @@
+# 启动
+依次执行
+
+`yarn`
+
+`yarn start`
+
+确保端口3000不被占用 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
